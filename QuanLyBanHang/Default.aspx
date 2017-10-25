@@ -72,7 +72,7 @@
 			<nav id="fh5co-main-menu" role="navigation">
 				<ul>
 					<li class="fh5co-active"><a href="Default.aspx">Trang chủ</a></li>
-					<li><a href="Product.aspx">Sản phẩm</a></li>
+					<li><a href="Product.aspx">Sản pham</a></li>
 					<li><a href="Manage.aspx">Quản lý</a></li>
 					<li><a href="Contact.aspx">Liên hệ</a></li>
 				</ul>
