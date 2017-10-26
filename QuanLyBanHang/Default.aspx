@@ -79,7 +79,7 @@
 			</nav>
 
 			<div class="fh5co-footer">
-				<p><small>&copy; FPT Polytechnic - 2017</span> <span>Designed by Group 6 - INF205 </span> </small></p>
+				<p><small>&copy; FPT Polytechnic - 2017</span> <span>Designed by Group 6 - INF205  OK </span> </small></p>
 				<ul>
 					<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
 					<li><a href="https://twitter.com/?lang=vi"><i class="icon-twitter"></i></a></li>
